@@ -20,7 +20,7 @@ const homeSlice = createSlice({
   initialState:{
     goodPriceInfo:{},
     highScoreInfo:{},
-    discountInfo:{}
+    discountInfo:{},
   },
   reducers:{
     // 修改信息
